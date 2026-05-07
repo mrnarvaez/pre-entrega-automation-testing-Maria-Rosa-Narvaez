@@ -34,8 +34,10 @@ El proyecto incluye:
 
 ## 🧪 Casos de Prueba Automatizados
 
-1. Login Exitoso 💻
+### 1. Login Exitoso 💻
+
 Validaciones:
+
 Navegación a SauceDemo
 Ingreso de credenciales válidas
 Espera explícita hasta redirección
@@ -46,8 +48,10 @@ Credenciales utilizadas:
 Usuario: standard_user
 Contraseña: secret_sauce
 
-2. Navegación y Verificación del Catálogo 📋
+### 2. Navegación y Verificación del Catálogo 📋
+
 Validaciones:
+
 Verificación del título de inventario
 Validación de productos visibles
 Validación de elementos importantes:
@@ -57,8 +61,10 @@ Obtención de:
 nombre del primer producto
 precio del primer producto
 
-3. Interacción con Carrito de Compras 🛒
+### 3. Interacción con Carrito de Compras 🛒
+
 Validaciones:
+
 Agregar primer producto al carrito
 Verificar incremento del contador
 Navegar al carrito
