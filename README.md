@@ -6,7 +6,7 @@ https://www.saucedemo.com/
 
 ----------------------------------------------------------
 
-# 📌 Propósito del Proyecto
+## 📌 Propósito del Proyecto
 
 El objetivo de este proyecto es automatizar flujos básicos de navegación web y validaciones funcionales utilizando herramientas de automatización QA.
 
@@ -21,7 +21,7 @@ El proyecto incluye:
 
 ----------------------------------------------------------
 
-# 🚀 Tecnologías Utilizadas
+## 🚀 Tecnologías Utilizadas
 
 - Python
 - Selenium WebDriver
@@ -32,7 +32,7 @@ El proyecto incluye:
 
 ----------------------------------------------------------
 
-🧪 Casos de Prueba Automatizados
+## 🧪 Casos de Prueba Automatizados
 
 1. Login Exitoso 💻
 Validaciones:
@@ -66,7 +66,7 @@ Verificar presencia correcta del producto agregado
 
 ----------------------------------------------------------
 
-⚙️ Instalación del Proyecto
+## ⚙️ Instalación del Proyecto
 1. Clonar el repositorio:
 git clone <url-del-repositorio>
 
@@ -82,20 +82,20 @@ python -m pip install -r requirements.txt
 
 ----------------------------------------------------------
 
-▶️ Ejecución de Tests:
+## ▶️ Ejecución de Tests:
 Ejecutar todos los casos de prueba:
 pytest -v
 
 ----------------------------------------------------------
 
-📊 Generación de Reporte HTML:
+## 📊 Generación de Reporte HTML:
 pytest --html=reporte.html --self-contained-html
 
 El reporte se genera automáticamente en la raíz del proyecto.
 
 ----------------------------------------------------------
 
-📌Objetivo Académico:
+## 📌Objetivo Académico:
 
 Este proyecto fue desarrollado como práctica de automatización QA para reforzar conocimientos en:
 -Selenium WebDriver
@@ -107,9 +107,10 @@ Este proyecto fue desarrollado como práctica de automatización QA para reforza
 
 ----------------------------------------------------------
 
-👩‍💻 Autor
+### 👩‍💻 Autor
 Maria R. Narvaez
-Estudiante de QA Automation
+
+Estudiante de QA Automation.
 
 
 
