@@ -38,37 +38,37 @@ El proyecto incluye:
 
 Validaciones:
 
-Navegación a SauceDemo
-Ingreso de credenciales válidas
-Espera explícita hasta redirección
-Validación de /inventory.html
-Validación de título "Swag Labs"
-Validación de texto "Products"
-Credenciales utilizadas:
-Usuario: standard_user
-Contraseña: secret_sauce
+- Navegación a SauceDemo
+- Ingreso de credenciales válidas
+- Espera explícita hasta redirección
+- Validación de /inventory.html
+- Validación de título "Swag Labs"
+- Validación de texto "Products"
+- Credenciales utilizadas:
+- Usuario: standard_user
+- Contraseña: secret_sauce
 
 ### 2. Navegación y Verificación del Catálogo 📋
 
 Validaciones:
 
-Verificación del título de inventario
-Validación de productos visibles
-Validación de elementos importantes:
-menú lateral
-filtro de productos
-Obtención de:
-nombre del primer producto
-precio del primer producto
+- Verificación del título de inventario
+- Validación de productos visibles
+- Validación de elementos importantes:
+- Menú lateral
+- Filtro de productos
+- Obtención de: 
+1. nombre del primer producto
+2. precio del primer producto
 
 ### 3. Interacción con Carrito de Compras 🛒
 
 Validaciones:
 
-Agregar primer producto al carrito
-Verificar incremento del contador
-Navegar al carrito
-Verificar presencia correcta del producto agregado
+- Agregar primer producto al carrito
+- Verificar incremento del contador
+- Navegar al carrito
+- Verificar presencia correcta del producto agregado
 
 ----------------------------------------------------------
 
@@ -104,12 +104,12 @@ El reporte se genera automáticamente en la raíz del proyecto.
 ## 📌Objetivo Académico:
 
 Este proyecto fue desarrollado como práctica de automatización QA para reforzar conocimientos en:
--Selenium WebDriver
--Testing automatizado
--Automatización funcional web
--Estructuración de proyectos QA
--Manejo de Git y GitHub
--Uso de Pytest y fixtures
+- Selenium WebDriver
+- Testing automatizado
+- Automatización funcional web
+- Estructuración de proyectos QA
+- Manejo de Git y GitHub
+- Uso de Pytest y fixtures
 
 ----------------------------------------------------------
 
