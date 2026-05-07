@@ -58,8 +58,8 @@ Validaciones:
 - Menú lateral
 - Filtro de productos
 - Obtención de: 
-a. nombre del primer producto
-b. precio del primer producto
+a . nombre del primer producto
+b . precio del primer producto
 
 ### 3. Interacción con Carrito de Compras 🛒
 
