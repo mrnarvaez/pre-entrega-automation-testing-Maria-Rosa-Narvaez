@@ -17,6 +17,8 @@ El proyecto incluye:
 - Interacción con carrito de compras
 - Uso de esperas explícitas
 - Generación de reportes HTML
+- Capturas automáticas en caso de fallo
+- Logs de ejecución
 - Organización modular del código
 
 ----------------------------------------------------------
@@ -101,6 +103,17 @@ El reporte se genera automáticamente en la raíz del proyecto.
 
 ----------------------------------------------------------
 
+## 📸 Evidencias Automáticas
+### Screenshots automáticos
+En caso de fallo de un test, el framework genera automáticamente una captura de pantalla dentro de la carpeta:
+screenshots/
+
+### Logs de ejecución
+Las acciones principales ejecutadas durante las pruebas se almacenan en:
+logs/test_execution.log
+
+----------------------------------------------------------
+
 ## 📌Objetivo Académico:
 
 Este proyecto fue desarrollado como práctica de automatización QA para reforzar conocimientos en:
@@ -110,6 +123,7 @@ Este proyecto fue desarrollado como práctica de automatización QA para reforza
 - Estructuración de proyectos QA
 - Manejo de Git y GitHub
 - Uso de Pytest y fixtures
+- Manejo de logs y evidencias automatizadas
 
 ----------------------------------------------------------
 
