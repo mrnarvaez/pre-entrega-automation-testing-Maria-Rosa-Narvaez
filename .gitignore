@@ -3,5 +3,5 @@ __pycache__/
 .pytest_cache/
 *.pyc
 reporte.html
-logs/
-screenshots/
+logs/*.log
+screenshots/*.png
